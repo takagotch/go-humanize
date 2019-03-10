@@ -41,5 +41,3 @@ english.OxfordWordSeries([]string{"foo", "bar", "baz"}, "and")
 ```go
 // https://godoc.org/github.com/dustin/go-humanize#pkg-subdirectories
 ```
-
-
